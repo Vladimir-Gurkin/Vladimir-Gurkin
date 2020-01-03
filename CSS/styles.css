@@ -1,0 +1,48 @@
+body {
+  background: gold;
+  margin: 0;
+}
+
+.link {
+  color: rgba(133, 172, 42, 0.829);
+}
+
+.link:hover {
+  color: gray;
+}
+
+.header {
+  padding: 10px;
+  border-bottom: 1px solid gray;
+  text-align: center;
+}
+  
+.main {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.img-wrapper {
+  background-color: gainsboro;
+  padding: 15px;
+  display:block;
+  margin:auto;
+}
+ 
+.title {
+  color: gray;
+  text-align: center;
+}
+
+.subtitle {
+  border-left: 7px solid blue;
+  padding-left: 10px;
+  color: gray;
+  margin-top: 40px;
+}
+
+.footer {
+  border: 3px solid rgb(128, 128, 128);
+  text-align: center;
+  color: gray;
+}

@@ -45,14 +45,25 @@ body {
   margin-top: 40px;
 }
 
+.contacts-item {
+  display: flex;
+  align-items: center;
+}
+
+.contacts-icons {
+  margin-right: 24px;
+}
+
 .footer {
   font-family: 'Fira Sans Condensed', sans-serif;
   background: lightseagreen;
-  border: 3px solid rgb(128, 128, 128);
+  border: 2px solid rgb(158, 146, 146);
+  padding: 16px;
   text-align: center;
   color: gray;
 }
 
  /* @font-face {
   src: url('../fonts/Lobster-Regular.ttf');
-  font-family: "Lobster"; */
+  font-family: "Lobster"; 
+}*/

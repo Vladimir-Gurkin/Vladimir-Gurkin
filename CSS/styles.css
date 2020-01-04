@@ -1,6 +1,6 @@
 body {
-  background: gold;
   margin: 0;
+    background: gold;
 }
 
 .link {
@@ -12,6 +12,7 @@ body {
 }
 
 .header {
+  font-family: 'Fira Sans Condensed', sans-serif;
   background: lightseagreen;
   padding: 10px;
   border-bottom: 1px solid gray;
@@ -19,6 +20,7 @@ body {
 }
   
 .main {
+  font-family: 'Alice', serif;
   margin: 0 auto;
   width: 1000px;
 }
@@ -31,6 +33,7 @@ body {
 }
  
 .title {
+  font-family: 'Pacifico', sans-serif;
   color: gray;
   text-align: center;
 }
@@ -43,8 +46,13 @@ body {
 }
 
 .footer {
+  font-family: 'Fira Sans Condensed', sans-serif;
   background: lightseagreen;
   border: 3px solid rgb(128, 128, 128);
   text-align: center;
   color: gray;
 }
+
+ /* @font-face {
+  src: url('../fonts/Lobster-Regular.ttf');
+  font-family: "Lobster"; */

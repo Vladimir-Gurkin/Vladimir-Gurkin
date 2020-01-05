@@ -51,7 +51,7 @@ body {
 }
 
 .contacts-icons {
-  margin-right: 24px;
+  margin-right: 24gpx;
 }
 
 .footer {
@@ -66,4 +66,5 @@ body {
  /* @font-face {
   src: url('../fonts/Lobster-Regular.ttf');
   font-family: "Lobster"; 
-}*/
+}
+*/
